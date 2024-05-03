@@ -1,0 +1,2 @@
+- É UMA CLASSE COMPLETAMENTE ABSTRATA
+- só pode haver métodos e propriedades abstratas(coisas sem corpo)

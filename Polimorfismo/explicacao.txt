@@ -1,0 +1,6 @@
+-O polimorfismo é tipo a herança, porém podemos usar o método de uma classe 
+e modificar esse método em outra classe("remake de método")
+
+-Nesse exemplo vamos pegar o método da classe Animal e modificá-lo em outras duas classes
+
+-O ideial é criar arquivo por página mas eu vou fazer um só para ficar mais explicativo

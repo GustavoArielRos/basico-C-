@@ -1,0 +1,5 @@
+
+-Tem tanto a classe abstrata quanto o método
+-A classe não pode ser criada
+-O método não contém nada, serve mesmo para sobrescrever
+
